@@ -1,2 +1,2 @@
 
-Datasets contain id, title, content, authors of publications.
+Datasets contain physics publications(id, title, content, authors).
